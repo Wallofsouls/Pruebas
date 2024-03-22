@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Pruebas';
+  saludo = 'Hello World'
+  pregunta = "Que es esta tecnología?"
 }
+
